@@ -1,0 +1,4 @@
+[36323:259:0503/192406.052763:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 112.0.5615.137 (not a warning)
+[36323:26887:0503/192406.607067:ERROR:trust_store_mac.cc(844)] Error parsing certificate:
+ERROR: Failed parsing extensions
+
